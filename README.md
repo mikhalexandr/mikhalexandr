@@ -21,12 +21,15 @@ A young back-end developer who is still learning
 
 <p align="left"> <a href="https://www.github.com/mikhalexandr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### GitHub stats:
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mikhalexandr"><img src="https://github-readme-stats.vercel.app/api?username=mikhalexandr&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mikhalexandr's GitHub stats" /></a>
-
-<a href="http://www.github.com/mikhalexandr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikhalexandr&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/mikhalexandr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhalexandr&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=mikhalexandr&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikhalexandr&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
