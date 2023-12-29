@@ -1,4 +1,4 @@
-Hi 👋 My name is Alexandr Mikhalcheknov
+Hi 👋, my name is Alexandr Mikhalcheknov
 =======================================
 
 A young back-end developer who is still learning
