@@ -3,11 +3,15 @@
 ### 👤 About me:
   I am a beginner programmer who is interested in learning something new in the IT field. I like to do back-end development, to get to know myself while working on interesting projects using various tools. I try myself in many directions, participate in various Olympiads and hackathons.
   “The future belongs to those who believe in the beauty of their dreams.” © Eleanor Roosevelt
-* 🌍  I'm based in Smolensk, Russia
-* ✉️  You can contact me at [mikhalchenkov22@gmail.com](mailto:mikhalchenkov22@gmail.com)
+* 🌍  I'm based in Russia, Smolensk
+  
 * 🚀  I'm currently working on [educational pygame project](https://github.com/mikhalexandr/Sensei-Rescuing-Pygame)
+  
 * 🧠  I'm learning Python, Java, Spring, Kotlin, C++, MySQL and JS
+  
 * 💻  I take courses on Stepik, JavaBegin, Yandex Lyceum and SQL Aademy
+  
+* ✉️  You can contact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mikhalchenkov22@gmail.com)
 
 ---
 
