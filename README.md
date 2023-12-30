@@ -5,6 +5,7 @@ Hi 👋, my name is Alexandr Mikhalcheknov
 ---
 
 ### :man_technologist: About me:
+I am a beginner programmer who is interested in learning something new in the IT field. I like to do back-end development, to get to know myself while working on interesting projects using various tools. “The future belongs to those who believe in the beauty of their dreams.” © Eleanor Roosevelt
 * 🌍  I'm based in Smolensk, Russia
 * ✉️  You can contact me at [mikhalchenkov22@gmail.com](mailto:mikhalchenkov22@gmail.com)
 * 🚀  I'm currently working on [educational pygame project](https://github.com/mikhalexandr/Sensei-Rescuing-Pygame)
