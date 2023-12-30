@@ -1,8 +1,12 @@
 <h1><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=27&duration=6300&vCenter=true&pause=100&color=9D9DE8&random=false&width=680&lines=Hi%F0%9F%91%8B%2C+my+name+is+Alexandr+Mikhalchenkov!;A+young+back-end+developer+who+is+still+learning+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></h1>
 
 ### 👤 About me:
+<details>
+    <summary>👨‍💻 Forrest's Coding Journey</summary>
   I am a beginner programmer who is interested in learning something new in the IT field. I like to do back-end development, to get to know myself while working on interesting projects using various tools. I try myself in many directions, participate in various Olympiads and hackathons.
   “The future belongs to those who believe in the beauty of their dreams.” © Eleanor Roosevelt
+</details>
+
 * 🌍  I'm based in Russia, Smolensk
   
 * 🚀  I'm currently working on [educational pygame project](https://github.com/mikhalexandr/Sensei-Rescuing-Pygame)
