@@ -8,7 +8,7 @@ Hi 👋, my name is Alexandr Mikhalcheknov
 * 🌍  I'm based in Smolensk, Russia
 * ✉️  You can contact me at [mikhalchenkov22@gmail.com](mailto:mikhalchenkov22@gmail.com)
 * 🚀  I'm currently working on [educational pygame project](https://github.com/mikhalexandr/Sensei-Rescuing-Pygame)
-* 🧠  I'm learning Python, Java (Spring), Kotlin, C++, MySQL and JS
+* 🧠  I'm learning Python, Java, Spring, Kotlin, C++, MySQL and JS
 * 💻  I take courses on Stepik, JavaBegin, Yandex Lyceum and SQL Aademy
 
 ---
