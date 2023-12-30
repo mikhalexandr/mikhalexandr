@@ -5,8 +5,6 @@ Hi 👋, my name is Alexandr Mikhalcheknov
 ---
 
 ### :man_technologist: About me:
-  I love code
-
 * 🌍  I'm based in Smolensk, Russia
 * ✉️  You can contact me at [mikhalchenkov22@gmail.com](mailto:mikhalchenkov22@gmail.com)
 * 🚀  I'm currently working on [educational pygame project](https://github.com/mikhalexandr/Sensei-Rescuing-Pygame)
