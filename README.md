@@ -1,10 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mikhalexandr.mikhalexandr" />
-
-Hi 👋, my name is Alexandr Mikhalcheknov
-=======================================
-### A young back-end developer who is still learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-
----
+<h1>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=7000&pause=500&color=9D9DEB&background=836CFF00&random=false&width=750&height=60&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Alexandr+Mikhalchenkov;A+young+back-end+developer+who+is+still+learning+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</h1>
 
 ### :man_technologist: About me:
   I am a beginner programmer who is interested in learning something new in the IT field. I like to do back-end development, to get to know myself while working on interesting projects using various tools. I try myself in many directions, participate in various Olympiads and hackathons.
