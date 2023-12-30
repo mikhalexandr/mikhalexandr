@@ -26,10 +26,10 @@
 <table>
   <tr>
     <td>
-      <img align="centre" src="http://github-readme-streak-stats.herokuapp.com?user=mikhalexandr&stroke=ffffff&background=181824&ring=9D9DE8&fire=9D9DE8&currStreakNum=9D9DE8&currStreakLabel=9D9DE8&sideNums=9D9DE8&sideLabels=9D9DE8&dates=ffffff" alt="webDev's Github stats" />
+     <img height="195px" align="centre" src="https://github-readme-stats-salesp07.vercel.app/api?username=mikhalexandr&count_private=true&layout=compact&show_icons=true&theme=react&icon_color=9D9DE8&rank_icon=github&text_color=ffffff&title_color=9D9DE8" alt="readme stats" />
     </td>
     <td>
-      <img height="195px" align="centre" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikhalexandr&layout=compact&langs_count=10&title_color=9D9DE8&text_color=ffffff&icon_color=6366f1&bg_color=181824&locale=en&custom_title=Top%20%Languages" />
+      <img height="195px" align="centre" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikhalexandr&layout=compact&langs_count=10&title_color=9D9DE8&text_color=ffffff&icon_color=6366f1&theme=react&locale=en&custom_title=Top%20%Languages" />
     </td>
   </tr>
 </table>  
