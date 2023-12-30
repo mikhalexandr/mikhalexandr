@@ -31,13 +31,14 @@ Hi 👋, my name is Alexandr Mikhalcheknov
 ---
 
 ### ⚙️ GitHub stats:
-
+<table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=mikhalexandr&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="webDev's Github stats" />
+      <img align="centre" src="http://github-readme-streak-stats.herokuapp.com?user=mikhalexandr&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="webDev's Github stats" />
     </td>
     <td>
-      <img align="left" height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikhalexandr&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=6366f1&bg_color=181824&locale=en&custom_title=Top%20%Languages" />
+      <img height="195px" align="centre" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikhalexandr&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=6366f1&bg_color=181824&locale=en&custom_title=Top%20%Languages" />
     </td>
   </tr>
+</table>  
 
