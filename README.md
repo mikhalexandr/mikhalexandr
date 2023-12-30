@@ -9,16 +9,14 @@
   
 * 💻  I take courses on Stepik, JavaBegin, Yandex Lyceum and SQL Aademy
 
+* <details >
+    <summary>👨‍💻 My Coding Journey and Thoughts</summary>
+        I am a beginner programmer who is interested in learning something new in the IT field. I like to do back-end development, to get to know myself while working on interesting projects using various                 tools. I try myself in many directions, participate in various Olympiads and hackathons.
+</details>
+ 
 * 📒 You can check out my [**PORTFOLIO**](https://github.com/mikhalexandr)
 
 * ✉️  Сontact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mikhalchenkov22@gmail.com)
-
----
-
-<details >
-    <summary><h3>👨‍💻 My Coding Journey and Thoughts</h3></summary>
-        I am a beginner programmer who is interested in learning something new in the IT field. I like to do back-end development, to get to know myself while working on interesting projects using various                 tools. I try myself in many directions, participate in various Olympiads and hackathons.
-</details>
 
 ---
 
