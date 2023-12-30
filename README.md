@@ -15,7 +15,7 @@
 
 ---
 
-<details>
+<details >
     <summary><h3>👨‍💻 My Coding Journey and Thoughts</h3></summary>
         I am a beginner programmer who is interested in learning something new in the IT field. I like to do back-end development, to get to know myself while working on interesting projects using various                 tools. I try myself in many directions, participate in various Olympiads and hackathons.
 </details>
