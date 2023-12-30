@@ -9,9 +9,9 @@
   
 * 💻  I take courses on Stepik, JavaBegin, Yandex Lyceum and SQL Aademy
  
-* 📒 You can check out my [**PORTFOLIO**](https://github.com/mikhalexandr)
+* 📒  You can check out my [**PORTFOLIO**](https://github.com/mikhalexandr)
 
-* ✉️  Сontact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mikhalchenkov22@gmail.com)
+* ✉️  Сontact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mikhalchenkov22@gmail.com)
 
 ---
 
