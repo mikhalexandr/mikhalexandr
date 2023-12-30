@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mikhalexandr.mikhalexandr" />
+
 Hi 👋, my name is Alexandr Mikhalcheknov
 =======================================
 ### A young back-end developer who is still learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
