@@ -15,7 +15,7 @@
 
 ### :zap: Languages and Tools:
 <div>
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,spring,kotlin,js,vuejs,jquery,html,css,mysql,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,spring,kotlin,js,nodejs,vuejs,jquery,html,css,mysql,mongodb,git" />
 </div>
 
 ---
