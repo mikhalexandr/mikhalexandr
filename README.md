@@ -14,7 +14,7 @@
 ---
 
 ### :zap: Languages and Tools:
-<img src="https://skillicons.dev/icons?i=python,cpp,java,spring,kotlin,js,nodejs,vuejs,jquery,html,css,mysql,mongodb,git" />
+<img src="https://skillicons.dev/icons?i=python,flask,cpp,java,spring,kotlin,js,nodejs,vuejs,jquery,html,css,mysql,mongodb,git" />
 
 ---
 
