@@ -3,9 +3,9 @@
 ### 👤 About me:
 * 🌍  I'm based in Russia, Smolensk
   
-* 🚀  I'm currently working on [educational pygame project](https://github.com/mikhalexandr/Sensei-Rescuing-Pygame)
+* 🚀  I'm currently working on [educational pyqt project](https://github.com/mikhalexandr/PyQT-Maps)
   
-* 🧠  I'm learning Python, Java, Spring, Kotlin, C++, MySQL and JS
+* 🧠  I'm learning Python, Java, Kotlin, C++, MySQL and JS
   
 * 💻  I take courses on Stepik, JavaBegin, Yandex Lyceum and SQL Academy
  
