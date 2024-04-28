@@ -3,18 +3,18 @@
 ### 👤 About me:
 * 🌍  I'm based in Russia, Smolensk
   
-* 🚀  I'm currently working on [educational pyqt project](https://github.com/mikhalexandr/PyQT-Maps)
+* 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/PyQT-Maps)
   
-* 🧠  I'm learning Python, Java, Kotlin, C++, MySQL and JS
+* 🧠  I'm learning Python, Java, Kotlin, C++ and MySQL
   
-* 💻  I take courses on Stepik, JavaBegin, Yandex Lyceum and SQL Academy
+* 💻  I love participating in hackathons and olympiads
  
 * ✉️  Сontact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mikhalchenkov22@gmail.com)
 
 ---
 
 ### :zap: Languages and Tools:
-<img src="https://skillicons.dev/icons?i=python,flask,cpp,java,kotlin,spring,mysql,git" />
+<img src="https://skillicons.dev/icons?i=python,flask,qt,cpp,java,kotlin,spring,mysql,git" />
 
 ---
 
