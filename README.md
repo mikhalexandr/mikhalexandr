@@ -14,7 +14,9 @@
 ---
 
 ### 🛠️ Tech stack:
+<p>
 ㅤ<img src="https://skillicons.dev/icons?i=python,flask,qt,cpp,java,kotlin,spring,mysql,git" />
+</p>
 
 ---
 
