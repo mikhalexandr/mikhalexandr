@@ -3,7 +3,7 @@
 ### 👤 About me:
 * 🌍  I'm based in Russia, Smolensk
   
-* 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/PyQT-Maps)
+* 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/Flask-MyPet-API)
   
 * 🧠  I'm learning Python, Java, Kotlin, C++ and MySQL
   
