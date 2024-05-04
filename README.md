@@ -13,7 +13,7 @@
 
 ---
 
-### :zap: Tech stack:
+### 🛠️ Tech stack:
 ㅤ<img src="https://skillicons.dev/icons?i=python,flask,qt,cpp,java,kotlin,spring,mysql,git" />
 
 ---
