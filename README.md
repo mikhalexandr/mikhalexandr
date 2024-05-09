@@ -1,4 +1,6 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=27&duration=6300&vCenter=true&pause=350&color=9D9DE8&random=false&width=680&lines=Hi👋,+my+name+is+Alexandr+Mikhalchenkov!;I'm+a+young+backend+developer+who+is+still+learning+🎓" alt="Typing SVG" /></h1>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=27&duration=6300&vCenter=true&pause=350&color=9D9DE8&random=false&width=680&lines=Hi👋,+my+name+is+Alexandr+Mikhalchenkov!;I'm+a+young+backend+developer+who+is+still+learning+🎓" alt="Typing SVG" />
+</h1>
 
 ### 👤 About me:
 * 🌍  I'm based in Russia, Smolensk
@@ -31,4 +33,3 @@
     </td>
   </tr>
 </table>  
-
