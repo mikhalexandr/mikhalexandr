@@ -1,6 +1,6 @@
 <h1><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=27&duration=6300&vCenter=true&pause=350&color=9D9DE8&random=false&width=680&lines=Hi👋,+my+name+is+Alexandr+Mikhalchenkov!;I'm+a+young+backend+developer+who+is+still+learning+🎓" alt="Typing SVG" /></h1>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300" height="250" align="right">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="280" height="230" align="right">
 
 ### 👤 About me:
 * 🌍  I'm based in Russia, Smolensk
