@@ -26,10 +26,10 @@
 <table>
   <tr>
     <td>
-     <img height="195px" align="centre" src="https://github-readme-stats-salesp07.vercel.app/api?username=mikhalexandr&count_private=true&layout=compact&show_icons=true&theme=react&icon_color=9D9DE8&rank_icon=github&text_color=ffffff&title_color=9D9DE8" alt="readme stats" />
+     <img height="195px" align="centre" src="https://github-readme-stats-salesp07.vercel.app/api?username=mikhalexandr&count_private=true&layout=compact&show_icons=true&bg_color=242938&icon_color=9D9DE8&rank_icon=github&text_color=ffffff&title_color=9D9DE8" alt="readme stats" />
     </td>
     <td>
-      <img height="195px" align="centre" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhalexandr&layout=compact&langs_count=6&title_color=9D9DE8&text_color=ffffff&icon_color=6366f1&theme=react&locale=en&custom_title=Most%20%Used%20%Languages" />
+      <img height="195px" align="centre" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhalexandr&layout=compact&langs_count=6&title_color=9D9DE8&text_color=ffffff&icon_color=6366f1&bg_color=242938&locale=en&custom_title=Most%20%Used%20%Languages" />
     </td>
   </tr>
 </table>  
