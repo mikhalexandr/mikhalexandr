@@ -7,7 +7,7 @@
   
 * 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/Flask-MyPet-API)
   
-* 🧠  I'm learning Go, Python, C++ and MySQL
+* 🧠  I'm learning Go, Python, C++ and SQL
   
 * 💻  I participate in hackathons and olympiads
  
@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack
 <p>
-ㅤ<img src="https://skillicons.dev/icons?i=go,python,flask,qt,cpp,postgresql,mysql,docker,git" />
+ㅤ<img src="https://skillicons.dev/icons?i=python,flask,qt,cpp,go,docker,postgresql,mysql,git" />
 </p>
 
 ---
