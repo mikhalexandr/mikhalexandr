@@ -7,7 +7,7 @@
   
 * 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/Flask-MyPet-API)
   
-* 🧠  I'm learning Go, Python, C++ and SQL
+* 🧠  I'm code in Go, Python, C++ and SQL
 
 * 💻  I participate in hackathons and olympiads
 
