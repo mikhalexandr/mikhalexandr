@@ -33,3 +33,5 @@
     </td>
   </tr>
 </table>  
+
+ㅤ![Views Badge](https://komarev.com/ghpvc/?username=mikhalexandr&color=242938)
