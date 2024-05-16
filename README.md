@@ -1,6 +1,5 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mikhalexandr&color=242938">
-</p>
+<img align="right" src="https://komarev.com/ghpvc/?username=mikhalexandr&color=242938" />
+
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=27&duration=6300&vCenter=true&pause=350&color=9D9DE8&random=false&width=680&lines=Hi👋,+my+name+is+Alexandr+Mikhalchenkov!;I'm+a+young+backend+developer+who+is+still+learning+🎓" alt="Typing SVG" />
 </h1>
