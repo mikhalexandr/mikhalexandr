@@ -34,4 +34,6 @@
   </tr>
 </table>  
 
-ㅤ![Views Badge](https://komarev.com/ghpvc/?username=mikhalexandr&color=242938)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mikhalexandr&color=242938">
+</p>
