@@ -6,11 +6,8 @@
 * 🌍  I'm based in Russia, Smolensk
   
 * 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/Flask-MyPet-API)
-  
-* 🧠  I'm code in Go, Python, C++ and SQL
 
 * 💻  I participate in hackathons and olympiads
-
 
 * ☕  I really like to drink a few cups of coffee
 
