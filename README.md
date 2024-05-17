@@ -5,13 +5,13 @@
 ### 👤 About Me
 * 🌍  I'm based in Russia, Smolensk
   
-* 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/Flask-MyPet-API)
+* 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/Flask-MyPet-API) and ready to cooperate
 
-* 💻  I participate in hackathons and olympiads
+* 💻  I participate in hackathons and olympiads, constantly improving myself
 
-* ☕  I like to drink a few cups of coffee a day
+* ☕  I explore coffee brewing techniques to enhance my coffee experience
 
-* ✉️  Сontact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iamikhalexandr@gmail.com)
+* ✉️  You can contact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iamikhalexandr@gmail.com)
 
 ---
 
