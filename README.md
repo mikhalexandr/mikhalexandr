@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack
 <p>
-ㅤ<img src="https://skillicons.dev/icons?i=python,flask,qt,go,docker,cpp,postgresql,mysql,git" />
+ㅤ<img src="https://skillicons.dev/icons?i=python,flask,qt,go,docker,cpp,postgresql,mysql,linux,git" />
 </p>
 
 ---
@@ -33,3 +33,7 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+</p>
