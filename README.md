@@ -3,7 +3,7 @@
 </h1>
 
 ### 👤 About Me
-* 🌍  I'm currently residing in Russia, Smolensk
+* 🌍  I'm presently residing in Russia, Smolensk
   
 * 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/Flask-MyPet-API) and ready to cooperate
 
