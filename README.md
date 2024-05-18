@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack
 <p>
-ㅤ<img src="https://skillicons.dev/icons?i=python,flask,qt,go,docker,cpp,postgresql,mysql,linux,git" />
+ㅤ<img src="https://skillicons.dev/icons?i=python,flask,qt,go,cpp" />ㅤㅤ<img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql" />ㅤㅤ<img src="https://skillicons.dev/icons?i=git,docker,linux" />
 </p>
 
 ---
