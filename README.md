@@ -5,7 +5,7 @@
 ### 👤 About Me
 * 🌍  I'm presently residing in Russia, Smolensk
   
-* 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/Flask-MyPet-API) and ready to cooperate
+* 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/telegram-bot-hackathon-support) and ready to cooperate
 
 * 💻  I participate in hackathons and olympiads, constantly improving myself
 
