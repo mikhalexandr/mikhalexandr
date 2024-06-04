@@ -4,6 +4,8 @@
 
 ### 👤 About Me
 * 🌍  I'm presently residing in Russia, Smolensk
+
+* 🧠  I'm currently learning Go, Python, C++ and SQL
   
 * 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/telegram-bot-hackathon-support) and ready to cooperate
 
