@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 <p>
-ㅤ<img src="https://skillicons.dev/icons?i=go,python,cpp,postgresql,sqlite,mysql,redis,git,cloudflare,postman,kafka,kubernetes,docker" />
+ㅤ<img src="https://skillicons.dev/icons?i=go,python,cpp,postgresql,sqlite,mysql,git,cloudflare,postman,docker" />
 </p>
 
 ---
