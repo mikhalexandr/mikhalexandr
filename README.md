@@ -1,37 +1,21 @@
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=27&duration=6300&vCenter=true&pause=350&color=9D9DE8&random=false&width=680&lines=Hi👋,+my+name+is+Alexandr+Mikhalchenkov!;I'm+a+young+backend+developer+who+is+still+learning+🎓" alt="Typing SVG" />
-</h1>
+### Hi there 👋
 
-### 👤 About Me
-* 🌍  I'm presently residing in Russia, Smolensk
+I'm Alexandr, a self-motivated tech enthusiast and Golang developer.
 
-* 🧠  I'm currently learning Go, Python, C++ and SQL
-  
-* 🚀  I'm currently working on [this project](https://github.com/mikhalexandr/telegram-bot-hackathon-support) and ready to cooperate
-
-* 💻  I participate in hackathons and olympiads, constantly improving myself
-
-* ☕  I'm diving deep into coffee brewing techniques to savor the perfect cup
-
-* ✉️  You can contact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iamikhalexandr@gmail.com)
-
----
+💻 Junior programming engineer in [@neiasit](https://github.com/neiasit)  
+👤 Member of the [@IIEHbKU](https://github.com/IIEHbKU) team  
+✉️  You can contact me here: [@mikhalexandr](https://t.me/mikhalexandr)
+   
 
 ### 🛠️ Tech Stack
 <p>
-ㅤ<img src="https://skillicons.dev/icons?i=go,python,cpp,postgresql,sqlite,mysql,git,cloudflare,postman,docker" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
-
----
-
-### ⚙️ GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="centre" alt="readme stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=mikhalexandr&count_private=true&bg_color=0D1117&layout=compact&show_icons=true&icon_color=9D9DE8&rank_icon=github&text_color=E6EDF3&title_color=9D9DE8" />
-    </td>
-    <td>
-      <img height="195px" align="centre" alt="readme stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhalexandr&layout=compact&langs_count=6&title_color=9D9DE8&text_color=E6EDF3&icon_color=6366f1&bg_color=0D1117&locale=en&custom_title=Most%20%Used%20%Languages" />
-    </td>
-  </tr>
-</table>
