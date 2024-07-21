@@ -3,7 +3,7 @@
 I'm Alexandr, a self-motivated tech enthusiast and Golang developer.
 
 💻 Junior programming engineer in [@neiasit](https://github.com/neiasit)  
-👤 Member of the [@IIEHbKU](https://github.com/IIEHbKU) team  
+🚀 Member of the [@IIEHbKU](https://github.com/IIEHbKU) team  
 ✉️  You can contact me here: [@mikhalexandr](https://t.me/mikhalexandr)
    
 
