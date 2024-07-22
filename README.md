@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Alexandr, a self-motivated tech enthusiast and Golang developer.
+### I'm Alexandr, a self-motivated tech enthusiast and Golang/Python developer.
 
 ### 👤 About Me
 - 💻 Junior programming engineer in [@neiasit](https://github.com/neiasit)  
