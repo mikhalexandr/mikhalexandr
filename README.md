@@ -20,3 +20,15 @@
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
+### ⚙️ GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img height="195px" align="centre" alt="readme stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=mikhalexandr&count_private=true&bg_color=0D1117&layout=compact&show_icons=true&icon_color=9D9DE8&rank_icon=github&text_color=E6EDF3&title_color=9D9DE8" />
+    </td>
+    <td>
+      <img height="195px" align="centre" alt="readme stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhalexandr&layout=compact&langs_count=6&title_color=9D9DE8&text_color=E6EDF3&icon_color=6366f1&bg_color=0D1117&locale=en&custom_title=Most%20%Used%20%Languages" />
+    </td>
+  </tr>
+</table>
