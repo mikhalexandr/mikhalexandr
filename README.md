@@ -3,9 +3,9 @@
 </h1>
 
 ### 👤 About Me
-- 💻 Junior Golang Developer in [@neiasit](https://github.com/neiasit)  
-- 🚀 Member of the [@IIEHbKU](https://github.com/IIEHbKU) team
-- 📫 You can contact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iamikhalexandr@gmail.com)
+* 💻 Junior Golang Developer in [@neiasit](https://github.com/neiasit)  
+* 🚀 Member of the [@IIEHbKU](https://github.com/IIEHbKU) team
+* 📫 You can contact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iamikhalexandr@gmail.com)
    
 
 ### 🛠️ Tech Stack
