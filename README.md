@@ -1,10 +1,10 @@
-## Hi there 👋
-
-### I'm Alexandr, a self-motivated tech enthusiast and Golang/Python developer
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=27&duration=6300&vCenter=true&pause=350&color=9D9DE8&random=false&width=680&lines=Hi👋,+my+name+is+Alexandr+Mikhalchenkov!;I+am+a+self-motivated+tech+enthusiast+👨‍💻" alt="Typing SVG" />
+</h1>
 
 ### 👤 About Me
-- 💻 Junior programming engineer in [@neiasit](https://github.com/neiasit)  
-- 🚀 Member of the [@IIEHbKU](https://github.com/IIEHbKU) team  
+- 💻 Junior Golang Developer in [@neiasit](https://github.com/neiasit)  
+- 🚀 Member of the [@IIEHbKU](https://github.com/IIEHbKU) team
 - 📫 You can contact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iamikhalexandr@gmail.com)
    
 
