@@ -5,9 +5,9 @@
 ### 👤 About Me
 * 💻 Junior Golang Developer in [@neiasit](https://github.com/neiasit)  
 * 🚀 Member of the [@IIEHbKU](https://github.com/IIEHbKU) team
-* 📫 Contact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iamikhalexandr@gmail.com)
+* 📝 Practicing with [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-282828?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/mikhalexandr) 
+* 📫 Contact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iamikhalexandr@gmail.com) 
    
-
 ### 🛠️ Tech Stack
 <p>
   ㅤ<img src="https://skillicons.dev/icons?i=go,python,postgresql,sqlite,redis,kafka,kubernetes,docker,postman,cloudflare,git" />
