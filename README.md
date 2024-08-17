@@ -4,8 +4,7 @@
 
 ### 👤 About Me
 * 💻 Junior Golang Developer in [@neiasit](https://github.com/neiasit)  
-* 🚀 Member of the [@IIEHbKU](https://github.com/IIEHbKU) team
-* 📝 Practicing with [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-282828?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/mikhalexandr) 
+* 🚀 Practicing with the help of [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-282828?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/mikhalexandr) 
 * 📫 Contact me here: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhalexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iamikhalexandr@gmail.com) 
    
 ### 🛠️ Tech Stack
