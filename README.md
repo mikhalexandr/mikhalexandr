@@ -9,7 +9,7 @@
    
 ### 🛠️ Tech Stack
 <p>
-  ㅤ<img src="https://skillicons.dev/icons?i=go,python,fastapi,postgresql,sqlite,redis,kafka,kubernetes,docker,postman,grafana,cloudflare,git" />
+  ㅤ<img src="https://skillicons.dev/icons?i=go,python,postgresql,sqlite,redis,kafka,kubernetes,docker,postman,grafana,cloudflare,git" />
 </p>
 
 ### ⚙️ GitHub Stats
