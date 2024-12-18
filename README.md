@@ -9,17 +9,5 @@
    
 ### 🛠️ Tech Stack
 <p>
-  ㅤ<img src="https://skillicons.dev/icons?i=go,python,postgresql,sqlite,redis,kafka,kubernetes,docker,postman,grafana,cloudflare,git" />
+  ㅤ<img src="https://skillicons.dev/icons?i=go,python,postgresql,sqlite,redis,mongo,kafka,kubernetes,docker,prometheus,grafana,nginx,postman,cloudflare,git" />
 </p>
-
-### ⚙️ GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="centre" alt="readme stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=mikhalexandr&count_private=true&bg_color=0D1117&layout=compact&show_icons=true&icon_color=9D9DE8&rank_icon=github&text_color=E6EDF3&title_color=9D9DE8" />
-    </td>
-    <td>
-      <img height="195px" align="centre" alt="readme stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhalexandr&layout=compact&langs_count=6&title_color=9D9DE8&text_color=E6EDF3&icon_color=6366f1&bg_color=0D1117&locale=en&custom_title=Most%20%Used%20%Languages" />
-    </td>
-  </tr>
-</table>
